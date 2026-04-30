@@ -85,11 +85,7 @@ Se desarrolló un dashboard en Power BI para analizar:
 
 Puedes descargar el dataset desde:
 
-👉 (agrega aquí tu link de Kaggle o Google Drive)
-
-Una vez descargado, ubicarlo en:
-
-/data/
+👉 https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
 
 ---
 
